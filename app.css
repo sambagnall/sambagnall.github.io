@@ -1,0 +1,22 @@
+ul li {
+	list-style-type:none;
+}
+div.display {
+	border-style: solid;
+	border-color: grey;
+	text-align: right;
+	width:170px;
+	right:160px;
+	height:20px;
+	border-width: 1px;
+	border-radius: 5px;
+}
+
+input.number, .operator, .equals, .clear {
+	width: 40px;
+}
+
+ul.rowone, .rowtwo, .rowthree, .rowfour {
+	margin:0;
+	padding:0;
+}
